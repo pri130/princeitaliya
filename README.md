@@ -22,9 +22,22 @@
 
 ---
 
+# My AI/ML Project
+
+## 🚀 Overview
+- Trained model: `model/model.pkl`
+- Notebook: `notebooks/model_training.ipynb`
+
+## 🔧 Setup
+1. Install dependencies:
+   ```bash
+   pip install -r requirements.txt
+
+---
+
 ## 📈 Goals
 - 📝 Publish research paper by June 2025  
-- 🔬 File Indian patent on vortex cooling concept  
+- 🔬 File patent on vortex cooling concept  
 - 🤝 Collaborate with global researchers (ISRO, MIT, ETH)
 
 ---
