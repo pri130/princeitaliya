@@ -4,7 +4,7 @@
 🎓 **B.Tech in Aeronautical Engineering**  
 📍 Parul University | Class of 2026  
 🚀 Aspiring Researcher in Aerospace, Space Systems & Thermal Control  
-🎯 Aiming for graduate studies at MIT or ETH Zurich
+
 
 ---
 
